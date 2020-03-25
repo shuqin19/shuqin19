@@ -1,2 +1,2 @@
-# shuqin19
-ISH
+# ISH
+Developing genotyping tools based on fluorescent in situ hybridization
